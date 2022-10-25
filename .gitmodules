@@ -1,0 +1,4 @@
+[submodule "expense_travel_calculation"]
+	path = expense_travel_calculation
+	url = git@github.com:much-GmbH/expense_travel_calculation.git
+	branch = 15.0
